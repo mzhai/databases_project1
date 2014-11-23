@@ -1,0 +1,501 @@
+Rank,Year,Name,Artist,Features,Size,Time,Group,Debut Year,State,Country
+1,2006,Bad Day,Daniel Powter,false,6463488,230,false,2000,n/a,Canada
+2,2006,Temperature,Sean Paul,false,5959680,212,false,1996,n/a,Jamaica
+3,2006,Promiscuous,Nelly Furtado,true,5909324,246,false,1996,n/a,Canada
+4,2006,You re Beautiful,James Blunt,false,5931008,211,false,2004,n/a,England
+5,2006,Hips Don t Lie,Shakira,true,6062080,216,false,1990,n/a,Colombia
+6,2006,Unwritten,Natasha Bedingfield,false,7069696,252,false,2004,n/a,England
+7,2006,Crazy,Gnarls Barkley,false,5017600,179,true,2004,Georgia,USA
+8,2006,Ridin ,Chamillionaire,true,8507392,303,false,1998,Texas,USA
+9,2006,SexyBack,Justin Timberlake,false,6754304,241,false,1993,Tennessee,USA
+10,2006,Check On It,Beyonce,true,5902336,210,false,1997,Texas,USA
+11,2006,Be Without You,Mary J. Blige,false,6918144,246,false,1989,New York,USA
+12,2006,Grillz,Nelly,true,7598080,271,false,1993,Texas,USA
+13,2006,Over My Head (Cable Car),The Fray,false,6762496,241,true,2002,Colorado,USA
+14,2006,Me & U,Cassie,false,5402624,192,false,2004,New York,USA
+15,2006,Buttons,The Pussycat Dolls,true,6336512,226,true,2003,California,USA
+16,2006,Run It!,Chris Brown,false,4861952,173,false,2005,Virginia,USA
+17,2006,So Sick,Ne-Yo,false,5844992,208,false,1999,Arkansas,USA
+18,2006,It s Goin  Down,Yung Joc,false,6795264,242,false,2004,Georgia,USA
+19,2006,SOS,Rihanna,false,6742016,240,false,2005,n/a,Barbados
+20,2006,I Write Sins Not Tragedies,Panic! At the Disco,false,5206016,185,true,2004,Nevada,USA
+21,2006,Move Along,The All-American Rejects,false,6619136,236,true,1999,Oklahoma,USA
+22,2006,London Bridge,Fergie,false,5816320,207,false,1984,California,USA
+23,2006,Dani California,Red Hot Chili Peppers,false,7905280,282,true,1983,California,USA
+24,2006,Snap Yo Fingers,Lil Jon,true,7618560,271,false,1995,Georgia,USA
+25,2006,Lean Wit It Rock Wit It,Dem Franchize Boyz,true,6426624,229,true,2004,Georgia,USA
+26,2006,What Hurts The Most,Rascal Flatts,false,5947392,212,true,1999,Ohio,USA
+27,2006,How To Save A Life,The Fray,false,7401472,264,true,2002,Colorado,USA
+28,2006,Unfaithful,Rihanna,false,6414336,229,false,2005,n/a,Barbados
+29,2006,Chasing Cars,Snow Patrol,false,7413760,264,true,1994,n/a,Scotland
+30,2006,Lips Of An Angel,Hinder,false,7241728,258,true,2001,Oklahoma,USA
+31,2006,Everytime We Touch,Cascada,false,8527872,304,true,2004,n/a,Germany
+32,2006,Ain t No Other Man,Christina Aguilera,false,6352896,226,false,1993,Pennsylvania,USA
+33,2006,Dance Dance,Fall Out Boy,false,4079616,145,true,2001,Illinois,USA
+34,2006,Gold Digger,Kanye West,true,8871936,316,false,1996,Georgia,USA
+35,2006,Money Maker,Ludacris,true,6463488,230,false,1998,Illinois,USA
+36,2006,Ms. New Booty,Bubba Sparxxx,true,7868416,280,false,1993,Georgia,USA
+37,2006,(When You Gonna) Give It Up To Me,Sean Paul,true,6795264,242,false,1996,n/a,Jamaica
+38,2006,Photograph,Nickelback,false,6447104,230,true,1995,n/a,Canada
+39,2006,Because Of You,Kelly Clarkson,false,6164480,220,false,2002,Texas,USA
+40,2006,StickWitU,The Pussycat Dolls,false,5828608,208,true,2003,California,USA
+41,2006,I m N Luv (Wit A Stripper),T-Pain,true,6598656,235,false,2000,Florida,USA
+42,2006,My Humps,The Black Eyed Peas,false,9134080,326,true,1991,California,USA
+43,2006,Where d You Go,Fort Minor,true,6508544,232,true,2004,California,USA
+44,2006,Yo (Excuse Me Miss),Chris Brown,false,6152192,219,false,2005,Virginia,USA
+45,2006,Walk Away,Kelly Clarkson,false,5218304,186,false,2002,Texas,USA
+46,2006,Laffy Taffy,D4L,false,6299648,224,true,2004,Georgia,USA
+47,2006,What You Know,T.I.,false,6971392,248,false,2001,Georgia,USA
+48,2006,Dirty Little Secret,The All-American Rejects,false,5517312,197,true,1999,Oklahoma,USA
+49,2006,Savin  Me,Nickelback,false,6057984,216,true,1995,n/a,Canada
+50,2006,Don t Forget About Us,Mariah Carey,false,6549504,233,false,1988,New York,USA
+51,2006,Sexy Love,Ne-Yo,false,6070272,216,false,1999,Arkansas,USA
+52,2006,U And Dat,E-40,true,5697536,203,false,1987,California,USA
+53,2006,Far Away,Nickelback,false,6656000,237,true,1995,n/a,Canada
+54,2006,What s Left Of Me,Nick Lachey,false,6828032,243,false,1997,Kentucky,USA
+55,2006,So What,Field Mob,true,7184384,256,true,2000,Georgia,USA
+56,2006,Do It To It,Cherish,true,6451200,230,true,2003,Georgia,USA
+57,2006,Black Horse & The Cherry Tree,KT Tunstall,false,8327168,297,false,2000,n/a,Scotland
+58,2006,There It Go! (The Whistle Song),Juelz Santana,false,4691968,195,false,1999,New York,USA
+59,2006,Shoulder Lean,Young Dro,true,7225344,258,false,2000,Georgia,USA
+60,2006,Unpredictable,Jamie Foxx,true,5272319,219,false,1989,Texas,England
+61,2006,My Love,Justin Timberlake,true,7786496,278,false,1993,Tennessee,USA
+62,2006,Shake That,Eminem,true,6521405,274,false,1992,Missouri,USA
+63,2006,Pullin  Me Back,Chingy,true,6406144,228,false,2001,Missouri,USA
+64,2006,Bossy,Kelis,true,7655424,273,false,1997,New York,USA
+65,2006,Chain Hang Low,Jibbs,false,5857280,209,false,2006,Missouri,USA
+66,2006,Smack That,Akon,true,5939200,211,false,1996,Missouri,USA
+67,2006,One Wish,Ray J,false,6635520,236,false,1995,California,USA
+68,2006,Sugar We re Goin  Down,Fall Out Boy,false,6377472,227,true,2001,Illinois,USA
+69,2006,Gimme That,Chris Brown,true,5087232,181,false,2005,Virginia,USA
+70,2006,I Know You See It,Yung Joc,true,5767168,205,false,2004,Georgia,USA
+71,2006,Who Says You Can t Go Home,Bon Jovi,false,7827456,279,true,1983,New Jersey,USA
+72,2006,Too Little Too Late,JoJo,false,6021120,214,false,1998,Vermont,USA
+73,2006,Touch It,Busta Rhymes,false,6029312,215,false,1989,New York,USA
+74,2006,Rompe,Daddy Yankee,false,5283840,188,false,1992,San Juan,USA
+75,2006,Deja Vu,Beyonce,true,6709248,239,false,1997,Texas,USA
+76,2006,Life Is A Highway,Rascal Flatts,false,7585792,270,true,1999,Ohio,USA
+77,2006,Call Me When You re Sober,Evanescence,false,5955584,212,true,1995,Arkansas,USA
+78,2006,Jesus Take The Wheel,Carrie Underwood,false,6246400,222,false,2005,Oklahoma,USA
+79,2006,Show Stopper,Danity Kane,false,6430720,229,true,2005,New York,USA
+80,2006,Get Up,Ciara,true,7225344,257,false,2002,Georgia,USA
+81,2006,We Be Burnin ,Sean Paul,false,5836800,208,false,1996,n/a,Jamaica
+82,2006,Hate Me,Blue October,false,10645504,380,true,1995,Texas,USA
+83,2006,You And Me,Lifehouse,false,5484544,195,true,1999,California,USA
+84,2006,Beep,The Pussycat Dolls,true,6402048,228,true,2003,California,USA
+85,2006,I Think They Like me,Dem Franchize Boyz,true,7692288,274,true,2004,Georgia,USA
+86,2006,Say Goodbye,Chris Brown,false,7901184,282,false,2005,Virginia,USA
+87,2006,Waiting On The World To Change,John Mayer,false,5586944,199,false,1998,Connecticut,USA
+88,2006,Soul Survivor,Young Jeezy,true,7811072,278,false,2001,South Carolina,USA
+89,2006,Pump It,The Black Eyed Peas,false,6000640,214,true,1991,California,USA
+90,2006,When I m Gone,Eminem,false,7811072,278,false,1992,Missouri,USA
+91,2006,Hung Up,Madonna,false,5509120,196,false,1979,Michigan,USA
+92,2006,Stay Fly,Three 6 Mafia,true,6684672,238,true,1991,Tennessee,USA
+93,2006,Love,Keyshia Cole,false,7081984,252,false,2004,California,USA
+94,2006,When You re Mad,Ne-Yo,false,6074368,216,false,1999,Arkansas,USA
+95,2006,Why You Wanna,T.I.,false,6082560,217,false,2001,Georgia,USA
+96,2006,Stupid Girls,Pink,false,5230592,186,false,2000,Pennsylvania,USA
+97,2006,Feel Good Inc,Gorillaz,false,6221824,222,true,1998,n/a,England
+98,2006,I m Sprung,T-Pain,false,6647808,237,false,2000,Florida,USA
+99,2006,Do I Make You Proud,Taylor Hicks,false,6889472,245,false,1995,Alabama,USA
+100,2006,For You I will (Confidence),Teddy Geiger,false,6340608,226,false,2005,New York,USA
+1,2007,Fergalicious,Fergie,false,6303744,225,false,1984,California,USA
+2,2007,Irreplaceable,Beyonce,false,6354944,226,false,1997,Texas,USA
+3,2007,Smack,Akon,true,5941248,212,false,1996,Missouri,USA
+4,2007,I Wanna Love You,Akon,true,6862848,245,false,1996,Missouri,USA
+5,2007,Now To Save A Life,The Fray,false,7405568,264,true,2002,Colorado,USA
+6,2007,Say It Right,Nelly Furtado,false,6146048,219,false,1996,n/a,Canada
+7,2007,It Ends Tonight,The All-American Rejects,false,6815744,243,true,1999,Oklahoma,USA
+8,2007,My Love,Justin Timberlake,true,7792640,278,false,1993,Tennessee,USA
+9,2007,Lips Of An Angel,Hinder,false,7243776,258,true,2001,Oklahoma,USA
+10,2007,Sexyback,Justin Timberlake,false,6758400,241,false,1993,Tennessee,USA
+11,2007,We Fly High,Jim Jones,false,6699008,239,false,1997,New York,USA
+12,2007,Shortie Like Mine,Bow Wow,false,6698762,239,false,1993,Ohio,USA
+13,2007,Welcome To The Black Parade,My Chemical Romance,false,7723008,275,true,2001,New Jersey,USA
+14,2007,Money Maker,Ludacris,true,6467584,230,false,1998,Illinois,USA
+15,2007,Wind It Up,Gwen Stefani,false,5300224,189,false,1986,California,USA
+16,2007,Walk Away (Remember Me),Paula DeAnda,true,7317504,261,false,2006,Texas,USA
+17,2007,Far Away,Nickelback,false,6656000,237,true,1995,n/a,Canada
+18,2007,Hurt,Christina Aguilera,false,6758400,241,false,1993,Pennsylvania,USA
+19,2007,Chasing Cars,Snow Patrol,false,7417856,264,true,1994,n/a,Scotland
+20,2007,White & Nerdy,Weird Al Yankovic,false,4780032,170,false,1976,California,USA
+21,2007,Too Little Too Late,JoJo,false,6023168,215,false,1998,Vermont,USA
+22,2007,Keep Holding On,Avril Lavigne,false,6711296,239,false,1998,n/a,Canada
+23,2007,Before He Cheats,Carrie Underwood,false,5488640,195,false,2005,Oklahoma,USA
+24,2007,Waiting On The World To Change,John Mayer,false,5593088,199,false,1998,Connecticut,USA
+25,2007,London Brigde,Fergie,false,5820416,207,false,1984,California,USA
+26,2007,Wait A Minute,The Pussycat Dolls,true,6207488,221,true,2003,California,USA
+27,2007,What Goes Around,Justin Timberlake,false,12570624,448,false,1993,Tennessee,USA
+28,2007,Walk It Out,Unk,false,4864000,173,false,2006,Georgia,USA
+29,2007,Call Me When You re Sober,Evanescence,false,5955584,212,true,1995,Arkansas,USA
+30,2007,Say Goodbye,Chris Brown,false,7907328,282,false,2005,Virginia,USA
+31,2007,It s Not Over,Daughtry,false,6000640,214,true,2006,North Carolina,USA
+32,2007,Do Ya Chain Hang Low,Young Jibbs,false,4217910,210,false,2006,Illinois,USA
+33,2007,Show Stopper,Danity Kane,false,6434816,229,true,2005,New York,USA
+34,2007,Runaway Love,Ludacris,true,7817216,279,false,1998,Illinois,USA
+35,2007,Snow (Hey Oh),Red Hot Chili Peppers,false,9381888,334,true,1983,California,USA
+36,2007,Here It Goes Again,Ok Go,false,5023744,179,true,1998,Illinois,USA
+37,2007,Duddenly I See,KT Tunstall,false,5568512,198,false,2000,n/a,Scotland
+38,2007,Money In The Bank,Lil Scrappy,true,6656128,237,false,2003,Georgia,USA
+39,2007,Through Glass,Stone Sour,false,6752256,241,true,1992,Iowa,USA
+40,2007,Maneater,Nelly Furtado,false,7245824,258,false,1996,n/a,Canada
+41,2007,Here (In Your Arms),Hellogoodbye,false,6733824,240,true,2001,California,USA
+42,2007,Make It Rain,Fat Joe,true,6825984,243,false,1992,New York,USA
+43,2007,Tim Mcgraw,Taylor Swift,false,6500352,232,false,2006,Pennsylvania,USA
+44,2007,I Luv It,Young Jeezy,false,6762496,241,false,2001,South Carolina,USA
+45,2007,Promise,Ciara,false,7493632,267,false,2002,Georgia,USA
+46,2007,Tell Me,Diddy,true,6973440,248,false,2009,New York,USA
+47,2007,That s That S,Snoop Dogg,true,7163904,255,false,1991,California,USA
+48,2007,You Don t Know,Eminem,true,6670336,238,false,1992,Missouri,USA
+49,2007,My Wish,Rascal Flatts,false,6785024,242,true,1999,Ohio,USA
+50,2007,Rockstar,Nickelback,false,7094272,253,true,1995,n/a,Canada
+51,2007,Ice Box,Omarion,false,7129088,254,false,2001,California,USA
+52,2007,Get Up,Ciara,true,7227392,258,false,2002,Georgia,USA
+53,2007,Stuntin  Like My Daddy,Birdman,true,7583744,270,false,1990,Louisiana,USA
+54,2007,Face Down,The Red Jumpsuit Apparatus,false,5324800,190,true,2003,Florida,USA
+55,2007,Boston,Augustana,false,6875136,245,true,2003,California,USA
+56,2007,She s Everything,Brad Paisley,false,7358464,262,false,1997,West Virginia,USA
+57,2007,When You Were Young,The Killers,false,6078464,217,true,2001,Nevada,USA
+58,2007,My Little Girl,Tim Mcgraw,false,6057984,216,false,1992,Louisiana,USA
+59,2007,The Sweet Escape,Gwen Stefani,true,6897664,246,false,1986,California,USA
+60,2007,Watching You,Rodney Atkins,false,6600704,235,false,1997,Tennessee,USA
+61,2007,Come Back To Me,Vanessa Hudgens,false,4665344,166,false,2002,California,USA
+62,2007,Break It Off,Rihanna,true,6010880,214,false,2005,n/a,Barbados
+63,2007,Show Me What You Got,Jay-Z,false,6250496,223,false,1989,New York,USA
+64,2007,Hip Hop Is Dead,Nas,true,6322176,225,false,1989,New York,USA
+65,2007,If We Were A Movie,Hannah Montana,false,5068800,181,false,2001,Tennessee,USA
+66,2007,Come To Me,Diddy,true,7665664,273,false,2009,New York,USA
+67,2007,Into The Ocean,Blue October,false,6647808,237,true,1995,Texas,USA
+68,2007,Want To,Sugarland,false,5894144,210,true,2003,Georgia,USA
+69,2007,Gallery,Mario Vazquez,false,6227968,222,false,2005,New York,USA
+70,2007,Listen,Beyonce,false,6115328,218,false,1997,Texas,USA
+71,2007,Love Like Winter,Afi,false,4624384,165,true,1991,California,USA
+72,2007,The Saints Are Coming,U2,true,5625856,200,true,1976,n/a,Ireland
+73,2007,Honestly (Basic @128),Cartel,false,5912576,211,true,2003,Georgia,USA
+74,2007,Unappreciated,Cherish,false,6580224,234,true,2003,Georgia,USA
+75,2007,Top Back,T.I.,false,7925760,283,false,2001,Georgia,USA
+76,2007,Pain,Three Days Grace,false,5627904,200,true,1992,n/a,Canada
+77,2007,Red High Heels,Kellie Pickler,false,6205440,221,false,2006,North Carolina,USA
+78,2007,Love Me Or Hate Me (Fk You!!),Lady Sovereign,false,5892096,210,false,2003,n/a,England
+79,2007,Zoom,Lil' Boosie,true,7983104,285,false,2000,Louisiana,USA
+80,2007,About Us,Brooke Hogan,true,5642368,201,false,2002,Florida,USA
+81,2007,You,Lloyd,true,6629376,236,false,2004,Louisiana,USA
+82,2007,Who Said,Hannah Montana,false,5468160,195,false,2001,Tennessee,USA
+83,2007,The Kill (Bury Me),30 Seconds To Mars,false,6252544,223,true,1998,California,USA
+84,2007,Ring The Alarm,Beyonce,false,5685248,203,false,1997,Texas,USA
+85,2007,Dem Jeans,Chingy,true,6400000,228,false,2001,Missouri,USA
+86,2007,U And Dat,E-40,true,5701632,203,false,1987,California,USA
+87,2007,Deja Vu,Beyonce,true,6711296,239,false,1997,Texas,USA
+88,2007,Sexy Love,Ne-Yo,false,6076416,216,false,1999,Arkansas,USA
+89,2007,U + Ur Hand,Pink,false,4579328,163,false,2000,Pennsylvania,USA
+90,2007,Amarillo Sky,Jason Aldean,false,5707776,203,false,2005,Georgia,USA
+91,2007,Eave The Pieces,The Wreckers,false,5959680,212,true,2004,Tennessee,USA
+92,2007,Tell Me Baby,Red Hot Chili Peppers,false,6875136,245,true,1983,California,USA
+93,2007,Chicken Noodle Soup,Webstar,true,5083136,181,false,2006,New York,USA
+94,2007,Fidelity,Regina Spektor,false,6252544,223,false,1999,n/a,Russia
+95,2007,Cupid s Chokehold,Gym Class Heroes,true,6793216,242,true,1997,New York,USA
+96,2007,Lost One,Jay-Z,true,6248448,223,false,1989,New York,USA
+97,2007,Best Of Both Worlds (Live),Hannah Montana,false,3022848,107,false,2001,Tennessee,USA
+98,2007,Show Me The Money,Petey Pablo,false,6391808,228,false,2001,North Carolina,USA
+99,2007,Remember The Name,Fort Minor,true,6467584,230,true,2004,California,USA
+100,2007,Hate (I Really Don t Like You),Plain White T's,false,6246400,223,true,1997,Illinois,USA
+1,2008,Bleeding Love,Leona Lewis,false,7256637,259,false,2006,n/a,England
+2,2008,Lollipop,Lil Wayne,true,7981789,285,false,1997,Louisiana,USA
+3,2008,Take A Bow,Rihanna,false,6269056,223,false,2005,n/a,Barbados
+4,2008,I Kissed A Girl,Katy Perry,false,4996385,178,false,2001,California,USA
+5,2008,Love In This Club,Usher,true,7364825,263,false,1992,Texas,USA
+6,2008,4 Minutes,Madonna,true,6833388,244,false,1979,Michigan,USA
+7,2008,Viva La Vida,Coldplay,false,6801224,243,true,1996,England,USA
+8,2008,Sexy Can I,Ray J,true,5690104,203,false,1995,California,USA
+9,2008,No Air,Jordin Sparks,true,7356784,262,false,2007,Arizona,USA
+10,2008,Damaged,Danity Kane,false,6841429,244,true,2005,New York,USA
+11,2008,Pocketful Of Sunshine,Natasha Bedingfield,false,5576799,199,false,2004,n/a,England
+12,2008,Leavin ,Jesse McCartney,false,6021978,215,false,1998,New York,USA
+13,2008,The Time Of My Life ,David Cook,false,5953995,212,false,1999,Texas,USA
+14,2008,Forever ,Chris Brown,false,7660880,273,false,2005,Virginia,USA
+15,2008,Shake It,Metro Station,false,5009543,178,true,2006,California,USA
+16,2008,What You Got ,Colby O'Donis,true,6772715,242,false,1999,New York,USA
+17,2008,Got Money,Lil Wayne,true,6664527,238,false,1997,Louisiana,USA
+18,2008,Realize,Colbie Caillat,false,6822538,243,false,2007,California,USA
+19,2008,Stop And Stare ,OneRepublic,false,6239085,222,true,2002,Colorado,USA
+20,2008,Get Low ,Flo Rida,true,6410870,229,false,2006,Florida,USA
+21,2008,See You Again ,Miley Cyrus,false,5339201,190,false,2001,Tennessee,USA
+22,2008,It s Not My Time,3 Doors Down,false,6783680,242,true,1996,Mississippi,USA
+23,2008,Love Song ,Sara Bareilles,false,7223361,257,false,2003,California,USA
+24,2008,Bye Bye ,Mariah Carey,false,7220818,258,false,1988,New York,USA
+25,2008,All Around Me  ,Flyleaf,false,5888936,210,true,2000,Texas,USA
+26,2008,In Love With A Girl ,Gavin DeGraw,false,5748584,205,false,2001,New York,USA
+27,2008,Don t Stop The Music ,Rihanna,false,7370673,263,false,2005,n/a,Barbados
+28,2008,With You ,Chris Brown,false,7063653,252,false,2005,Virginia,USA
+29,2008,Touch My Body ,Mariah Carey,false,5710572,204,false,1988,New York,USA
+30,2008,Mercy ,Duffy,false,6147710,219,false,2003,Wales,USA
+31,2008,Break The Ice ,Britney Spears,false,5426213,193,false,1992,Mississippi,USA
+32,2008,Say ,John Mayer,false,6420982,229,false,1998,Connecticut,USA
+33,2008,There s Nothin ,Sean Kingston,true,6309261,225,false,2006,Florida,USA
+34,2008,Sorry  ,Buckcherry,false,6304875,225,true,1995,California,USA
+35,2008,Bust It Baby (Part 2) ,Plies,true,6606047,236,false,2007,Florida,USA
+36,2008,Summertime ,New Kids On The Block,false,5443026,194,true,1984,Massachusetts,USA
+37,2008,If I Never See Your Face Again ,Maroon 5,true,5524167,197,true,1994,California,USA
+38,2008,Last Name,Carrie Underwood,false,6736896,240,false,2005,Oklahoma,USA
+39,2008,American Boy ,Estelle,true,7941584,283,false,2004,n/a,England
+40,2008,Whatever It Takes ,Lifehouse,false,5750046,205,true,1999,California,USA
+41,2008,A Milli ,Lil Wayne,false,6246395,223,false,1997,Louisiana,USA
+42,2008,Feels Like Tonight ,Daughtry,false,6657217,237,true,2006,North Carolina,USA
+43,2008,Dangerous,Kardinal Offishall,true,6894061,246,false,1994,n/a,Canada
+44,2008,Handlebars ,Flobots,false,5766128,206,true,2000,Colorado,USA
+45,2008,When I Grow Up,The Pussycat Dolls,false,6459116,230,true,2003,California,USA
+46,2008,She Got It ,2 Pistols,true,5926948,211,false,2006,Florida,USA
+47,2008,Violet Hill ,Coldplay,false,5817298,207,true,1996,England,USA
+48,2008,Closer ,Ne-Yo,false,6551953,234,false,1999,Arkansas,USA
+49,2008,Love In This Club Part II,Usher,true,8606794,307,false,1992,Texas,USA
+50,2008,Love Is Gone,David Guetta,true,5605441,200,false,1984,n/a,France
+51,2008,Dream Big ,David Cook,false,3290962,117,false,1999,Texas,USA
+52,2008,Lolli Lolli,Three 6 Mafia,true,7015407,250,true,1991,Tennessee,USA
+53,2008,Buzzin ,Shwayze,true,5856772,209,false,2005,California,USA
+54,2008,Get Like Me ,David Banner,true,6298296,224,false,1999,Mississippi,USA
+55,2008,I m Yours ,Jason Mraz,false,6754440,241,false,1999,Virginia,USA
+56,2008,Moving Mountains ,Usher,false,8345827,298,false,1992,Texas,USA
+57,2008,Get Silly  ,V.I.C.,false,6359700,227,false,2008,New York,USA
+58,2008,Party People  ,Nelly,true,6595082,235,false,1993,Texas,USA
+59,2008,That s What You Get  ,Paramore,false,6176950,220,true,2004,Tennessee,USA
+60,2008,Homecoming ,Kanye West,true,5666712,202,false,1996,Georgia,USA
+61,2008,I Still Haven t Found What I m Looking For,David Cook,false,3623567,129,false,1999,Texas,USA
+62,2008,One Step At A Time,Jordin Sparks,false,5749315,205,false,2007,Arizona,USA
+63,2008,7 Things  ,Miley Cyrus,false,5734695,204,false,2001,Tennessee,USA
+64,2008,Your Love Is A Lie,Simple Plan,false,6111160,218,true,1999,n/a,Canada
+65,2008,Killa ,Cherish,true,6420373,229,true,2003,Georgia,USA
+66,2008,Superstar ,Lupe Fiasco,true,6671837,238,false,2005,Illinois,USA
+67,2008,Move Shake Drop,DJ Laz,true,5296095,189,false,1990,Florida,USA
+68,2008,Fall For You,Secondhand Serenade,false,5053403,180,true,2004,California,USA
+69,2008,Independent ,Webbie,true,7074618,252,false,2000,Louisiana,USA
+70,2008,The Boss,Rick Ross,true,6502976,232,false,2002,Florida,USA
+71,2008,Hollywood s Not America ,Ferras,false,5402821,193,false,2007,California,USA
+72,2008,Picture To Burn ,Taylor Swift,false,4812173,171,false,2006,Pennsylvania,USA
+73,2008,Run The Show ,Kat DeLuna,true,5962767,213,false,2006,New York,USA
+74,2008,Nine In The Afternoon ,Panic! At the Disco,false,5394780,192,true,2004,Nevada,USA
+75,2008,You re Gonna Miss This ,Trace Adkins,false,6239085,222,false,1990,Louisiana,USA
+76,2008,Pork And Beans,Weezer,false,4997847,178,true,1992,California,USA
+77,2008,Won t Go Home Without You ,Maroon 5,false,6431222,229,true,1994,California,USA
+78,2008,When You Look Me In The Eyes ,Jonas Brothers,false,6913067,247,true,2005,New Jersey,USA
+79,2008,We Made It ,Busta Rhymes,true,6391864,228,false,1989,New York,USA
+80,2008,If I Didn t Have You ,Emily Osment,true,5147702,183,false,1999,California,USA
+81,2008,Check Yes Juliet (Run Baby Run) ,WE the Kings,false,6092154,217,true,2000,Florida,USA
+82,2008,What Hurts The Most  ,Cascada,false,6296834,224,true,2004,n/a,Germany
+83,2008,Paper Planes ,M.I.A.,false,5669636,202,false,2000,n/a,England
+84,2008,Gunpowder & Lead  ,Miranda Lambert,false,4935712,176,false,2001,Texas,USA
+85,2008,All-American Girl ,Carrie Underwood,false,5928410,211,false,2005,Oklahoma,USA
+86,2008,The Anthem,Pitbull,true,6804879,243,false,2003,Florida,USA
+87,2008,Should ve Said No,Taylor Swift,false,6764674,241,false,2006,Pennsylvania,USA
+88,2008,New Soul ,Yael Naim,false,6225196,222,false,2000,n/a,France
+89,2008,I m Still A Guy ,Brad Paisley,false,6903564,246,false,1997,West Virginia,USA
+90,2008,Beat It ,Fall Out Boy,true,6399905,228,true,2001,Illinois,USA
+91,2008,I Luv Your Girl ,The-Dream,false,7501522,267,false,1998,Georgia,USA
+92,2008,She s A Hottie ,Toby Keith,false,5225919,186,false,1993,Oklahoma,USA
+93,2008,That Song In My Head ,Julianne Hough,false,5264662,188,false,2006,Utah,USA
+94,2008,Boyfriend Girlfriend ,C-Side,true,6036598,215,true,2001,Georgia,USA
+95,2008,The World I Know,David Cook,false,3508069,125,false,1999,Texas,USA
+96,2008,Sittin  At A Bar  (Bartender Song),Rehab,false,6284407,224,true,1998,Georgia,USA
+97,2008,I Will Possess Your Heart ,Death Cab For Cutie,false,6953272,248,true,1997,Washington,USA
+98,2008,All Over You ,The Spill Canvas,false,5643320,201,true,2002,South Dakota,USA
+99,2008,Lucky ,Jason Mraz,true,5275627,188,false,1999,Virginia,USA
+100,2008,Cruella De Vil ,Selena Gomez and The Scene,false,5595074,199,true,2009,California,USA
+1,2009,Boom Boom Pow,The Black Eyed Peas,false,8762569,308,true,1991,California,USA
+2,2009,Poker Face,Lady Gaga,false,6735053,237,false,2005,New York,USA
+3,2009,Just Dance,Lady Gaga,true,6956496,241,false,2005,New York,USA
+4,2009,I Gotta Feeling,The Black Eyed Peas,false,8903446,289,true,1991,California,USA
+5,2009,Love Story,Taylor Swift,false,6217891,234,false,2006,Pennsylvania,USA
+6,2009,Right Round,Flo Rida,false,5604197,203,false,2006,Florida,USA
+7,2009,I m Yours,Jason Mraz,false,5984226,242,false,1999,Virginia,USA
+8,2009,Single Ladies (Put A Ring On It),Beyonce,false,4971455,192,false,1997,Texas,USA
+9,2009,Heartless,Kanye West,false,5758821,211,false,1996,Georgia,USA
+10,2009,Gives You Hell,The All-American Rejects,false,5426180,210,true,1999,Oklahoma,USA
+11,2009,You Belong With Me,Taylor Swift,false,6196668,230,false,2006,Pennsylvania,USA
+12,2009,Dead And Gone,T.I.,true,8305480,299,false,2001,Georgia,USA
+13,2009,You Found Me,The Fray,false,6694137,242,true,2002,Colorado,USA
+14,2009,Use Somebody,Kings Of Leon,false,7150589,232,true,1999,Tennessee,USA
+15,2009,Knock You Down,Keri Hilson,true,9420167,326,false,2001,Georgia,USA
+16,2009,Blame It,Jamie Foxx,true,7979158,289,false,1989,Texas,England
+17,2009,I Know You Want Me (Calle Ocho),Pitbull,false,6983807,237,false,2003,Florida,USA
+18,2009,Live Your Life,T.I.,true,8260749,339,false,2001,Georgia,USA
+19,2009,Kiss Me Thru The Phone,Soulja Boy Tell 'Em,true,5754676,193,false,2007,Georgia,USA
+20,2009,Down,Jay Sean,true,5879028,211,false,2003,n/a,England
+21,2009,The Climb,Miley Cyrus,false,6368045,234,false,2001,Tennessee,USA
+22,2009,Best I Ever Had,Drake,false,6842968,257,false,2006,n/a,Canada
+23,2009,My Life Would Suck Without You,Kelly Clarkson,false,6012637,212,false,2002,Texas,USA
+24,2009,Halo,Beyonce,false,7639243,261,false,1997,Texas,USA
+25,2009,Hot N Cold,Katy Perry,false,5764403,220,false,2001,California,USA
+26,2009,Second Chance,Shinedown,false,6373762,220,true,2001,Florida,USA
+27,2009,Circus,Britney Spears,false,5173783,190,false,1992,Mississippi,USA
+28,2009,Day  N  Nite,Kid Cudi,false,5971648,221,false,2006,Ohio,USA
+29,2009,Party In The U.S.A.,Miley Cyrus,false,5308768,202,false,2001,Tennessee,USA
+30,2009,Don t Trust Me,3OH!3,false,5726384,192,true,2004,Colorado,USA
+31,2009,Run This Town,Jay-Z,true,7420573,267,false,1989,New York,USA
+32,2009,Let It Rock,Kevin Rudolf,true,6336699,231,false,2001,Florida,USA
+33,2009,Fire Burning,Sean Kingston,false,7351349,240,false,2006,Florida,USA
+34,2009,Whatcha Say,Jason DeRulo,false,6305313,222,false,2007,Florida,USA
+35,2009,LoveGame,Lady Gaga,false,6253779,211,false,2005,New York,USA
+36,2009,Waking Up In Vegas,Katy Perry,false,5603798,199,false,2001,California,USA
+37,2009,Birthday Sex,Jeremih,false,5997621,226,false,2009,Illinois,USA
+38,2009,Sober,Pink,false,6833526,250,false,2000,Pennsylvania,USA
+39,2009,Womanizer,Britney Spears,false,6026504,222,false,1992,Mississippi,USA
+40,2009,Whatever You Like,T.I.,false,6538377,249,false,2001,Georgia,USA
+41,2009,Obsessed,Mariah Carey,false,6406718,242,false,1988,New York,USA
+42,2009,Mad,Ne-Yo,false,6959858,254,false,1999,Arkansas,USA
+43,2009,Good Girls Go Bad,Cobra Starship,true,5453124,196,true,2003,New York,USA
+44,2009,Love Lockdown,Kanye West,false,8423500,270,false,1996,Georgia,USA
+45,2009,So What,Pink,false,6243398,214,false,2000,Pennsylvania,USA
+46,2009,Hotel Room Service,Pitbull,false,6562234,237,false,2003,Florida,USA
+47,2009,Crack A Bottle,Eminem,true,8062348,297,false,1992,Missouri,USA
+48,2009,If I Were A Boy,Beyonce,false,7362087,249,false,1997,Texas,USA
+49,2009,Turnin Me On,Keri Hilson,true,6762898,244,false,2001,Georgia,USA
+50,2009,I Hate This Part,The Pussycat Dolls,false,5702261,218,true,2003,California,USA
+51,2009,Gotta Be Somebody,Nickelback,false,7239472,251,true,1995,n/a,Canada
+52,2009,Please Don t Leave Me,Pink,false,6230793,231,false,2000,Pennsylvania,USA
+53,2009,Paparazzi,Lady Gaga,false,5932118,207,false,2005,New York,USA
+54,2009,Beautiful,Akon,true,8352299,313,false,1996,Missouri,USA
+55,2009,Viva La Vida,Coldplay,false,6753208,242,true,1996,England,USA
+56,2009,Right Now (Na Na Na),Akon,false,6672648,240,false,1996,Missouri,USA
+57,2009,Battlefield,Jordin Sparks,false,7149157,240,false,2007,Arizona,USA
+58,2009,Sugar,Flo Rida,true,7519593,253,false,2006,Florida,USA
+59,2009,Miss Independent,Ne-Yo,false,6313575,230,false,1999,Arkansas,USA
+60,2009,Fireflies,Owl City,false,6268674,228,false,2007,Minnesota,USA
+61,2009,New Divide,Linkin Park,false,7467472,268,true,1996,California,USA
+62,2009,Empire State Of Mind,Jay-Z,true,7545276,276,false,1989,New York,USA
+63,2009,No Surprise,Daughtry,false,7562673,269,true,2006,North Carolina,USA
+64,2009,She Wolf,Shakira,false,5279565,187,false,1990,n/a,Colombia
+65,2009,Break Up,Mario,true,7219012,249,false,2000,Maryland,USA
+66,2009,Sweet Dreams,Beyonce,false,5621744,206,false,1997,Texas,USA
+67,2009,Every Girl,Young Money,false,7211232,290,true,2005,Louisiana,USA
+68,2009,Fallin  For You,Colbie Caillat,false,6088910,215,false,2007,California,USA
+69,2009,Untouched,The Veronicas,false,8210802,254,true,1999,n/a,Australia
+70,2009,If Today Was Your Last Day,Nickelback,false,7347870,248,true,1995,n/a,Canada
+71,2009,Throw It In The Bag,Fabolous,true,6529572,233,false,1995,New York,USA
+72,2009,Love Drunk,Boys Like Girls,false,7418892,226,true,2005,Massachusetts,USA
+73,2009,I Love College,Asher Roth,false,7510295,242,false,2005,Pennsylvania,USA
+74,2009,If U Seek Amy,Britney Spears,false,5688975,215,false,1992,Mississippi,USA
+75,2009,Big Green Tractor,Jason Aldean,false,5195853,204,false,2005,Georgia,USA
+76,2009,White Horse,Taylor Swift,false,5981869,233,false,2006,Pennsylvania,USA
+77,2009,Disturbia,Rihanna,false,6465046,237,false,2005,n/a,Barbados
+78,2009,21 Guns,Green Day,false,9398791,321,true,1987,California,USA
+79,2009,Turn My Swag On,Soulja Boy Tell 'Em,false,6205484,206,false,2007,Georgia,USA
+80,2009,Rockin  That Thang,The-Dream,false,6057636,222,false,1998,Georgia,USA
+81,2009,Chicken Fried,Zac Brown Band,false,6410714,238,true,2000,Georgia,USA
+82,2009,Diva,Beyonce,false,5837446,199,false,1997,Texas,USA
+83,2009,Replay,Iyaz,false,4919116,182,false,2009,n/a,British Virgin Islands
+84,2009,Then,Brad Paisley,false,9082602,321,false,1997,West Virginia,USA
+85,2009,Her Diamonds,Rob Thomas,false,8004496,279,false,1992,n/a,Germany
+86,2009,How Do You Sleep?,Jesse McCartney,true,5847026,220,false,1998,New York,USA
+87,2009,Forever,Drake,true,9710839,357,false,2006,n/a,Canada
+88,2009,3,Britney Spears,false,5699253,203,false,1992,Mississippi,USA
+89,2009,One Time,Justin Bieber,false,6186195,214,false,2009,n/a,Canada
+90,2009,I Run To You,Lady Antebellum,false,7059641,254,true,2006,Tennessee,USA
+91,2009,I Do Not Hook Up,Kelly Clarkson,false,5727871,200,false,2002,Texas,USA
+92,2009,Green Light,John Legend,true,8011131,284,false,2001,Ohio,USA
+93,2009,People Are Crazy,Billy Currington,false,6358195,232,false,2003,Georgia,USA
+94,2009,Whatever It Is,Zac Brown Band,false,5801781,209,true,2000,Georgia,USA
+95,2009,Already Gone,Kelly Clarkson,false,7172617,280,false,2002,Texas,USA
+96,2009,Goodbye,Kristinia DeBarge,false,5869503,208,false,2003,California,USA
+97,2009,Say Hey (I Love You),Michael Franti,true,7153922,235,false,1986,California,USA
+98,2009,Pop Champagne,Ron Browz,true,5917430,216,false,1998,New York,USA
+99,2009,Pretty Wings,Maxwell,false,7811259,308,false,1994,New York,USA
+100,2009,Never Say Never,The Fray,false,6628742,257,true,2002,Colorado,USA
+1,2010,Tik Tok,Ke$ha,false,5274265,200,false,2005,California,USA
+2,2010,Need You Now,Lady Antebellum,false,6106333,233,true,2006,Tennessee,USA
+3,2010,Hey Soul Sister,Train,false,5345596,215,true,1994,California,USA
+4,2010,California Gurls,Katy Perry,true,5814691,242,false,2001,California,USA
+5,2010,OMG,Usher,true,5698859,284,false,1992,Texas,USA
+6,2010,Airplanes,B.o.B.,true,7345561,181,false,2007,Georgia,USA
+7,2010,Love The Way You Lie,Eminem,true,4220177,263,false,1992,Missouri,USA
+8,2010,Bad Romance,Lady Gaga,false,7053242,263,false,2005,New York,USA
+9,2010,Dynamite,Taio Cruz,false,6593742,203,false,2002,n/a,England
+10,2010,Break Your Heart,Taio Cruz,true,3765383,186,false,2002,n/a,England
+11,2010,Nothin On You,B.o.B.,true,6410692,267,false,2007,Georgia,USA
+12,2010,I Like It,Enrique Iglesias,true,6568608,229,false,1995,n/a,Spain
+13,2010,Bedrock,Young Money,true,8037971,289,true,2005,Louisiana,USA
+14,2010,In My Head,Jason DeRulo,false,4844107,201,false,2007,Florida,USA
+15,2010,Rude Boy,Rihanna,false,5313835,223,false,2005,n/a,Barbados
+16,2010,Telephone,Lady Gaga,true,7379043,220,false,2005,New York,USA
+17,2010,Teenage Dream,Katy Perry,false,5329314,228,false,2001,California,USA
+18,2010,Just The Way You Are,Bruno Mars,false,5364921,218,false,2005,California,USA
+19,2010,Cooler Than Me,Mike Posner,false,5050736,214,false,2009,Michigan,USA
+20,2010,Imma Be,Black Eyed Peas,false,5845716,260,true,1991,California,USA
+21,2010,Empire State Of Mind,Jay-Z,true,7200781,275,false,1989,New York,USA
+22,2010,DJ Got Us Fallin In Love,Usher,true,9009163,222,false,1992,Texas,USA
+23,2010,Billionaire,Travie McCoy,true,9537536,211,false,1997,New York,USA
+24,2010,Not Afraid,Eminem,false,10020748,250,false,1992,Missouri,USA
+25,2010,Replay,Iyaz,false,4201032,182,false,2009,n/a,British Virgin Islands
+26,2010,Sexy Chick,David Guetta,true,4965472,193,false,1984,n/a,France
+27,2010,Breakeven,The Script,false,10464696,261,true,2001,n/a,Ireland
+28,2010,Your Love Is My Drug,Ke$ha,false,7583268,187,false,2005,California,USA
+29,2010,I Gotta Feeling,Black Eyed Peas,false,6777495,245,true,1991,California,USA
+30,2010,Fireflies,Owl City,false,5605753,229,false,2007,Minnesota,USA
+31,2010,Say Aah,Trey Songz,true,5518884,208,false,2004,Virginia,USA
+32,2010,Find Your Love,Drake,false,4297266,207,false,2006,n/a,Canada
+33,2010,Alejandro,Lady Gaga,false,7315187,273,false,2005,New York,USA
+34,2010,Ridin Solo,Jason DeRulo,false,5215338,216,false,2007,Florida,USA
+35,2010,Just A Dream,Nelly,false,5870354,236,false,1993,Texas,USA
+36,2010,How Low,Ludacris,false,4425876,207,false,1998,Illinois,USA
+37,2010,Like A G6,Far East Movement,true,5361370,218,true,2003,California,USA
+38,2010,Carry Out,Timbaland,true,5394562,233,false,1990,Virginia,USA
+39,2010,Haven t Met You Yet,Michael Buble,false,6252902,243,false,1996,n/a,Canada
+40,2010,Club Cant Handle Me,Flo Rida,true,5759853,232,false,2006,Florida,USA
+41,2010,Down,Jay Sean,true,5737829,211,false,2003,n/a,England
+42,2010,Bulletproof,La Roux,false,4144632,207,true,2008,n/a,England
+43,2010,Whatcha Say,Jason DeRulo,false,5468882,222,false,2007,Florida,USA
+44,2010,Baby,Justin Bieber,true,5220996,215,false,2009,n/a,Canada
+45,2010,Whataya Want From Me,Adam Lambert,false,5102440,226,false,2009,Indianapolis,USA
+46,2010,Mine,Taylor Swift,false,9627984,231,false,2006,Pennsylvania,USA
+47,2010,Only Girl In The World,Rihanna,false,7400812,235,false,2005,n/a,Barbados
+48,2010,Live Like Were Dying,Kris Allen,false,5366090,212,false,2007,Arkansas,USA
+49,2010,Hard,Rihanna,true,6208528,252,false,2005,n/a,Barbados
+50,2010,Young Forever,Jay-Z,true,5176546,254,false,1989,New York,USA
+51,2010,Blah Blah Blah,Ke$ha,true,5150726,172,false,2005,California,USA
+52,2010,Bottoms Up,Trey Songz,true,6466038,244,false,2004,Virginia,USA
+53,2010,Do You Remember,Jay Sean,true,4900948,210,false,2003,n/a,England
+54,2010,All The Right Moves,OneRepublic,false,6410145,238,true,2002,Colorado,USA
+55,2010,According To You,Orianthi,false,5204824,199,false,2005,n/a,Australia
+56,2010,My Chick Bad,Ludacris,true,4342750,218,false,1998,Illinois,USA
+57,2010,You Belong With Me,Taylor Swift,false,5726961,229,false,2006,Pennsylvania,USA
+58,2010,Meet Me Halfway,Black Eyed Peas,false,7424209,285,true,1991,California,USA
+59,2010,Take It Off,Ke$ha,false,5090320,214,false,2005,California,USA
+60,2010,Over,Drake,false,6675184,233,false,2006,n/a,Canada
+61,2010,Animal,Neon Trees,false,5062741,186,true,2005,Utah,USA
+62,2010,Misery,Maroon 5,false,5325771,215,true,1994,California,USA
+63,2010,Magic,B.o.B.,true,4930177,196,false,2007,Georgia,USA
+64,2010,Paparazzi,Lady Gaga,false,5566955,207,false,2005,New York,USA
+65,2010,Tie Me Down,New Boyz,true,4528154,178,true,2008,California,USA
+66,2010,Your Love,Nicki Minaj,false,3932804,198,false,2004,n/a,Trinidad and Tobago
+67,2010,Party In The USA,Miley Cyrus,false,5353338,202,false,2001,Tennessee,USA
+68,2010,Deuces,Chris Brown,true,6084072,276,false,2005,Virginia,USA
+69,2010,3,Britney Spears,false,5432882,203,false,1992,Mississippi,USA
+70,2010,Impossible,Shontelle,false,4714854,225,false,2008,n/a,Barbados
+71,2010,Forever,Drake,true,8359045,357,false,2006,n/a,Canada
+72,2010,Two Is Better Than One,Boys Like Girls,true,6131599,243,true,2005,Massachusetts,USA
+73,2010,My First Kiss,3OH!3,true,4631586,192,true,2004,Colorado,USA
+74,2010,Already Gone,Kelly Clarkson,false,6356758,279,false,2002,Texas,USA
+75,2010,Rock That Body,Black Eyed Peas,false,6931509,268,true,1991,California,USA
+76,2010,Secrets,OneRepublic,false,9119411,224,true,2002,Colorado,USA
+77,2010,Naturally,Selena Gomez and The Scene,false,4007810,186,true,2009,California,USA
+78,2010,Un-Thinkable (Im Ready),Alicia Keys,false,5683280,246,false,1997,New York,USA
+79,2010,All I Do Is Win,DJ Khaled,true,6557871,228,false,1998,Louisiana,USA
+80,2010,I Made It (Cash Money Heroes),Kevin Rudolf,true,6773467,250,false,2001,Florida,USA
+81,2010,Stuck Like Glue,Sugarland,false,9968244,247,true,2003,Georgia,USA
+82,2010,Hey Daddy (Daddys Home),Usher,true,6604088,256,false,1992,Texas,USA
+83,2010,There Goes My Baby,Usher,false,6283134,281,false,1992,Texas,USA
+84,2010,Today Was A Fairytale,Taylor Swift,false,7850072,241,false,2006,Pennsylvania,USA
+85,2010,Say Something,Timbaland,true,6719223,242,false,1990,Virginia,USA
+86,2010,Sweet Dreams,Beyonce,false,4643688,207,false,1997,Texas,USA
+87,2010,Use Somebody,Kings Of Leon,false,5707470,232,true,1999,Tennessee,USA
+88,2010,Undo It,Carrie Underwood,false,5112647,178,false,2005,Oklahoma,USA
+89,2010,Eenie Meenie,Sean Kingston,true,4566243,202,false,2006,Florida,USA
+90,2010,Right Above It,Lil Wayne,true,6950498,275,false,1997,Louisiana,USA
+91,2010,The House That Built Me,Miranda Lambert,false,4475050,225,false,2001,Texas,USA
+92,2010,If I Die Young,The Band Perry,false,4981795,221,true,2005,Mississippi,USA
+93,2010,The Only Exception,Paramore,false,7577872,267,true,2004,Tennessee,USA
+94,2010,American Honey,Lady Antebellum,false,4996808,209,true,2006,Tennessee,USA
+95,2010,King Of Anything,Sara Bareilles,false,5164142,207,false,2003,California,USA
+96,2010,Life After You,Daughtry,false,6293099,205,true,2006,North Carolina,USA
+97,2010,Smile,Uncle Kracker,false,5649550,201,false,1987,Michigan,USA
+98,2010,Teach me How To Dougie,Cali Swag District,false,7714669,239,true,2010,California,USA
+99,2010,Try Sleeping With A Broken Heart,Alicia Keys,false,5983276,231,false,1997,New York,USA
+100,2010,Lover Lover,Jerrod Niemann,false,4758063,194,false,1999,Kansas,USA
